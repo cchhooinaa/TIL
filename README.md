@@ -6,4 +6,4 @@
 
 * 폴더와 파일명은 영문으로 작성
 
-* Markdown으로 작성하고 파일 확장자는 md.
+* [Markdown](https://github.com/cchhooinaa/TIL/tree/main/ETC)으로 작성하고 파일 확장자는 md.
